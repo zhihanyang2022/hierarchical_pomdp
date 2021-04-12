@@ -1,3 +1,5 @@
+Please note that this repository is a modification of the following repository:
+
 # Hierarchical-Actor-Critic-HAC-PyTorch
 
 This is an implementation of the Hierarchical Actor Critic (HAC) algorithm described in the paper, [Learning Multi-Level Hierarchies with Hindsight](https://arxiv.org/abs/1712.00948) (ICLR 2019), in PyTorch for OpenAI gym environments. The algorithm learns to reach a goal state by dividing the task into short horizon intermediate goals (subgoals). 
